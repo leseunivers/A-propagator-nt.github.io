@@ -114,7 +114,7 @@ nav ul li a {
 
 
 h1 {
-    
+
     padding-top: 3cqh;
     width: 100%;
     text-align: center;
@@ -134,16 +134,19 @@ h2 {
     font-family: "Iropke";
     position: absolute;
     width: 100%;
-    margin-top: 33vh;
+    margin-top: 35vh;
     letter-spacing: -1.7px;
+    font-size: 2.3vmax;
     
 
 }
 
 .link {
-    padding-top: 5vh;
-    color: rgb(22, 118, 208);
+    font-size: 1.7vmax;
+    color: rgb(64, 70, 255);
 }
+
+
 
 .founder {
     font-size: 1vmax;
