@@ -135,7 +135,7 @@ h2 {
     position: absolute;
     width: 100%;
     margin-top: 35vh;
-    letter-spacing: -1.7px;
+    letter-spacing: -2.97px;
     font-size: 2.3vmax;
     
 
@@ -143,13 +143,13 @@ h2 {
 
 .link {
     font-size: 1.7vmax;
-    color: rgb(64, 70, 255);
+    color: rgb(0, 23, 194);
 }
 
 
 
 .founder {
-    font-size: 1vmax;
+    font-size: 1.2vmax;
     bottom: 5vh;
     font-family: "PlayWrite IS";
     letter-spacing: -1px;
